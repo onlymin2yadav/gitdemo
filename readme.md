@@ -14,7 +14,7 @@ or
 
 **Equations:**
 inline $e^{i\pi} + 1 = 0$
-or on new line
+or on new line \
 $$e^{i\pi} + 1 = 0$$
 
 Images:
